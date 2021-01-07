@@ -10,6 +10,6 @@
 - 📫 How to reach me: [flutter_coders(Instagram)](https://instagram.com/flutter_coders)
 <!---
 , [portfolio](https://madhavtripathi05.github.io/portfolio)
--->
 - ⚡ Fun fact: Once you distract me, there's no way I'm getting back to work! 😶
+-->
 
