@@ -4,8 +4,8 @@
 - 🤳 Checkout my portfolio [here](https://madhavtripathi05.github.io/portfolio)
 -->
 - 🔭 I’m currently Developing Flutter Apps.
-- 🌱 I’m currently learning Full Stack Dev & ML.
-- 🤔 I’m looking for help with ML Projects.
+- 🌱 I’m currently learning Full Stack Dev & Blockxhain.
+- 🤔 I’m looking for help with Blockchain.
 - 💬 Ask me about Flutter, Dart.
 - 📫 How to reach me: [flutter_coders(Instagram)](https://instagram.com/flutter_coders)
 <!---
