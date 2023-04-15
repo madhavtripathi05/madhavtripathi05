@@ -3,9 +3,8 @@
 <!---
 - 🤳 Checkout my portfolio [here](https://madhavtripathi05.github.io/portfolio)
 -->
-- 🔭 I’m currently Developing Flutter Apps.
-- 🌱 I’m currently learning Full Stack Dev & Blockchain.
-- 🤔 I’m looking for help with Blockchain.
+- 🔭 I’m currently pursuing my Masters in Applied Computer Science from Concordia University.
+- 🌱 I’m currently learning Full Stack Development.
 - 💬 Ask me about Flutter, Dart.
 - 📫 How to reach me: [flutter_coders(Instagram)](https://instagram.com/flutter_coders)
 <!---
